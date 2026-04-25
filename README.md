@@ -13,7 +13,7 @@
 <br>
 
 ## 🌐 Sosyal Medya & İletişim:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/batuhan-öztürk-a57aa3405) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-%C3%B6zt%C3%BCrk-a57aa3405/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batuhanozturk40@outlook.com) 
 
 # 💻 Tech Stack (Kullandığım Teknolojiler):
